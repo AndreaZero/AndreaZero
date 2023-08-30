@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [http://zerotechlab.it](http://zerotechlab.it)
 
-- 💬 Ask me about **REACT, MERN, NodeJS, Solidity, DAPPs, Discord Bot, NFT Websites**
+- 💬 Ask me about **REACT, MERN, NodeJS, Solidity, DAPPs, Discord Bots, NFT Websites**
 
 - 📫 How to reach me **andreazero@live.it**
 
-- ⚡ Fun fact **I love to making music and riding motorcycle! Technology is what affascinate me the most, i try to stay updated in every tech field**
+- ⚡ Fun fact **I love to make music and technology is what affascinates me the most, I try to stay up to date in every tech field**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
