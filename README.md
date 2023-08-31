@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **REACT, MERN, NodeJS, Solidity, DAPPs, Discord Bots, NFT Websites**
 
-- 📫 How to reach me **andreazero@cornerzero.eut**
+- 📫 How to reach me **andreazero@cornerzero.eu**
 
 - ⚡ Fun fact **To me, the most fascinating fields are music and technology, and I strive to stay up to date in both.**
 
