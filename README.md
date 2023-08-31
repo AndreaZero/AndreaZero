@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">'I'm from Italy! I love to code and my biggest passion is music.</h3>
+<h3 align="center">I'm from Italy! I love to code and my biggest passion is music.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreazero&label=Profile%20views&color=0e75b6&style=flat" alt="andreazero" /> </p>
 
