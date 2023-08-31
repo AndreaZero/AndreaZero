@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">I'm almost 30, I love to code and my biggest passion is music.</h3>
+<h3 align="center">'I'm from Italy! I love to code and my biggest passion is music.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreazero&label=Profile%20views&color=0e75b6&style=flat" alt="andreazero" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/andrea__zero" target="blank"><img src="https://img.shields.io/twitter/follow/andrea__zero?logo=twitter&style=for-the-badge" alt="andrea__zero" /></a> </p>
 
-- 🔭 I’m currently working on [LosPollosSocial](https://github.com/AndreaZero/LosPollosSocial)
+- 🔭 I’m currently working on [Corner-Zero](https://github.com/AndreaZero/Corner-Zero)
 
 - 🌱 I’m currently learning **Javascript and web development**
 
@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **REACT, MERN, NodeJS, Solidity, DAPPs, Discord Bots, NFT Websites**
 
-- 📫 How to reach me **andreazero@live.it**
+- 📫 How to reach me **andreazero@cornerzero.eut**
 
-- ⚡ Fun fact **I love to make music and technology is what affascinates me the most, I try to stay up to date in every tech field**
+- ⚡ Fun fact **To me, the most fascinating fields are music and technology, and I strive to stay up to date in both.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
