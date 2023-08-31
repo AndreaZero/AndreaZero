@@ -7,13 +7,12 @@
 
 <p align="center"> <a href="https://twitter.com/andrea__zero" target="blank"><img src="https://img.shields.io/twitter/follow/andrea__zero?logo=twitter&style=for-the-badge" alt="andrea__zero" /></a> </p>
 
-- 🔭 I’m currently working on [Corner-Zero](https://github.com/AndreaZero/Corner-Zero)
 
 - 🌱 I’m currently learning **Javascript and web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreaZero/](https://github.com/AndreaZero/)
 
-- 📝 I regularly write articles on [http://zerotechlab.it](http://zerotechlab.it)
+- 📝 I regularly write articles on [Corner-Zero](http://cornerzero.eu)
 
 - 💬 Ask me about **REACT, MERN, NodeJS, Solidity, DAPPs, Discord Bots, NFT Websites**
 
