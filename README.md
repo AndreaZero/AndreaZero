@@ -12,7 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreaZero/](https://github.com/AndreaZero/)
 
-- 📝 I regularly write articles on [Corner-Zero](http://cornerzero.eu)
 
 - 💬 Ask me about **REACT, MERN, NodeJS, Solidity, DAPPs, Discord Bots, NFT Websites**
 
