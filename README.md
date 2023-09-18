@@ -12,6 +12,8 @@
 
 - 📫 Contact me at  **andreazero@cornerzero.eu**
 
+- Visit my portfolio/blog here: **https://cornerzero.eu**
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/andrea__zero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrea__zero" height="30" width="40" /></a>
