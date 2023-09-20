@@ -10,11 +10,11 @@
 
 - 💬 Studying and building with: **React, ViteJs, Framer Motion, Mui-Material, CSS, MERN, NodeJS, Solidity, DAPPs, Discord Bots, NFT Websites**
 
-- 📫 Contact me at  **andreazero@cornerzero.eu**
+- 📫 Contact me at  **andreazero@cornerzero.eu** - <a href='https://cornerzero.eu/static/media/resume.8b5a313b89fc83188a0a.pdf' rel='noreferrer noopener' target='blank'>Download my resume</a>
+
 
 - Visit my portfolio/blog here: **https://cornerzero.eu**
 
-<a href='https://cornerzero.eu/static/media/resume.8b5a313b89fc83188a0a.pdf' rel='noreferrer noopener' target='blank'>Download my resume</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
